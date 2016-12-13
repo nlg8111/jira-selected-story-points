@@ -7,3 +7,6 @@ Just create, or drag a new bookmark with the following code as the URL.
 
 ## Dependencies
 Your Jira instance has to have jQuery as `$`, and your browser should support ES6
+
+### Note
+Tested on a newish version of Chrome and Safari, and some version of Jira. Your mileage might vary.
